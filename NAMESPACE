@@ -3,4 +3,6 @@
 export(plot_kinematics)
 import(dplyr)
 import(ggplot2)
-import(magrittr)
+import(shiny)
+importFrom(gridExtra,grid.arrange)
+importFrom(reshape2,melt)

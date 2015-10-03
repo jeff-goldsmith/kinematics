@@ -7,10 +7,10 @@
 #' @author Jeff Goldsmith \email{jeff.goldsmith@@columbia.edu}
 #' @import dplyr
 #' @import ggplot2
-#' @import magrittr
+#' @import shiny
+#' @importFrom reshape2 melt
+#' @importFrom gridExtra grid.arrange
 #' @export plot_kinematics
-#' 
-#' 
 #' 
 plot_kinematics <- function(data, ...){
 
