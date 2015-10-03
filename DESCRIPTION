@@ -1,0 +1,9 @@
+Package: kinematics
+Type: Package
+Title: Internal functions for kinematic data
+Version: 0.1
+Date: 2015-10-02
+Author: Jeff Goldsmith
+Maintainer: Jeff Goldsmith <jeff.goldsmith@columbia.edu>
+Description: A collection of functions for kinematic data. For now, all this does is create interactive graphics.
+License: GPL (>= 2)
